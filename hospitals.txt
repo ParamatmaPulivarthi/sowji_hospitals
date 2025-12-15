@@ -1,0 +1,11 @@
+"hospital name"~country~location
+"mayo clinic-rohester"~unitedstates~rochester
+"cleved clinic"~unitedstates~cleveland
+"Toronto general- university health network"~canada~toronto
+"the johns Hopkins hospital"~unitedstates~baltimore
+"Karolinska universitetssjukhuset"~sweden~solna
+"bumrungrad international hospital"~thailand~bangkok
+"asan medical center"~southkorea~seoul
+"all india institute of medical sciences-delhi(aiims)"~india~"new delhi"
+"st thomas'hospital"~unitedkingdom~london
+"hospital israelita albert Einstein"~brazil~"sao paulo" 
