@@ -1,0 +1,3 @@
+hospitals details good
+equipment details good
+drug details good
